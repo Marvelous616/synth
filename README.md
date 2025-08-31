@@ -106,5 +106,3 @@ Expect breaking changes and rapid iteration.
 MIT License. See [LICENSE](LICENSE).
 
 ---
-
-*This README reflects the current, honest state of the project: a code playground for digital sound, best suited for hacking, learning, and experimentation.*
